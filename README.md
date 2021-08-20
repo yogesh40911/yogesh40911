@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yogesh40911
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 Worked on C#, ASP.net, Angular, SQL, XSLT, MySql,..
+- 🌱 I’m currently learning Python, AI and ML.
 - 📫 How to reach me at email yogesh.ahuja4091@gmail.com
 
 <!---
