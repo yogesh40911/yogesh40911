@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yogesh40911
-- 👀 Worked on C#, ASP.net, Angular, SQL, XSLT, MySql,..
+- 👀 Worked on C#, ASP.net, Angular, SQL, MySql, JavaScript, TypeScript, XSLT, XML...
 - 🌱 I’m currently learning Python, AI and ML.
 - 📫 How to reach me at email yogesh.ahuja4091@gmail.com
 
